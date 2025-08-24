@@ -6,7 +6,8 @@ I’m passionate about building intelligent systems, scaling AI solutions, and d
 ---
 
 ## 🌟 About Me
-- 🎯 Focused on **AI Agents**, **Computer Vision**, and **Generative AI**  
+- 🎓 Bachelor’s degree in **Data Science and Artificial Intelligence (IT-E10)** from [**SoICT, HUST**](https://soict.hust.edu.vn/)  
+- 🎯 Focused on **AI Agents**, **Computer Vision**, and **Recommender Systems**  
 - 💡 Experienced with **Deep Learning, NLP, and Recommender Systems**  
 - ☁️ Hands-on with **Cloud (GCP, AWS)** and **MLOps pipelines**  
 - 📚 Constant learner, exploring **Web3 x AI** applications  
