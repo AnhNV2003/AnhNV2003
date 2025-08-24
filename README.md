@@ -28,6 +28,8 @@ I’m passionate about building intelligent systems, scaling AI solutions, and d
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-4CAF50?style=for-the-badge&logo=graph&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Janus%20Gateway-FF6F00?style=for-the-badge&logo=webrtc&logoColor=white" />
 </p>
 
 **Databases:**  
