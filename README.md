@@ -31,10 +31,11 @@ I’m passionate about building intelligent systems, scaling AI solutions, and d
 </p>
 
 **Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Milvus](https://img.shields.io/badge/Milvus-00B8D9?style=for-the-badge&logo=milvus&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
-
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Milvus-00B8D9?style=for-the-badge&logo=milvus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 ---
 
 ## 🚀 Featured Projects
