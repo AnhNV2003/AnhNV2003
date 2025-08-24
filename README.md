@@ -40,7 +40,6 @@ I’m passionate about scaling AI solutions, and deploying ML models into real-w
   <img src="https://img.shields.io/badge/Milvus-00B8D9?style=for-the-badge&logo=milvus&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
----
 
 ## 🚀 Featured Projects
 
@@ -48,6 +47,5 @@ I’m passionate about scaling AI solutions, and deploying ML models into real-w
 - 🔹 **[Legal AI Agent](#)** – Supporting legal document analysis, retrieval, and case-based reasoning.  
 - 🔹 **[Hybrid Edge–Server Architecture for Person Re-Identification](#)** – Scalable solution for multi-camera person re-identification, combining edge optimization and server-based AI inference. 
 
----
 
 ✨ *"AI is only valuable when it is applied effectively."*
