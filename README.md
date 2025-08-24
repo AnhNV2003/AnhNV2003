@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Việt Anh  
+# 👋 Hi, I'm Viet Anh 
 
-🚀 **AI Engineer | Machine Learning & Computer Vision Enthusiast**  
-I’m passionate about building intelligent systems, scaling AI solutions, and deploying ML models into real-world applications.  
+🚀 **AI Engineer**  
+I’m passionate about scaling AI solutions, and deploying ML models into real-world applications.  
 
 ---
 
@@ -13,7 +13,9 @@ I’m passionate about building intelligent systems, scaling AI solutions, and d
 ## 🛠️ Tech Stack
 
 **Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p> 
 
 **Frameworks & Tools:**  
 <p align="center">
@@ -42,34 +44,10 @@ I’m passionate about building intelligent systems, scaling AI solutions, and d
 
 ## 🚀 Featured Projects
 
-- 🔹 **[AI Agent for Copy Trading](#)** – On-chain AI that executes DeFi strategies  
-- 🔹 **[Delta-Hedging Protocol](#)** – Yield strategy with stablecoin + perps  
-- 🔹 **[Smart Surveillance](#)** – Multi-camera CV pipeline with DeepStream + Kafka  
-- 🔹 **[RAG Chatbot](#)** – LangChain + Milvus for legal and financial documents  
+- 🔹 **[Banking Security AI – Smart Camera System](#)** – Computer vision pipeline for bank security surveillance, deployed on edge devices with real-time anomaly detection. 
+- 🔹 **[Legal AI Agent](#)** – Supporting legal document analysis, retrieval, and case-based reasoning.  
+- 🔹 **[Hybrid Edge–Server Architecture for Person Re-Identification](#)** – Scalable solution for multi-camera person re-identification, combining edge optimization and server-based AI inference. 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="langs" />
-</p>
-
----
-
-## 🏆 Achievements
-- 🥈 **2nd Prize - Vietnam Aptos Hackathon 2025**  
-- 🧠 Reviewer at **ArabicNLP 2025** (AI Conference)  
-- 🌍 Building products at the intersection of **AI x Web3**  
-
----
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@example.com)  
-
----
-
-✨ *"AI is not just technology, it’s the foundation of the future."*
+✨ *"AI is only valuable when it is applied effectively."*
